@@ -1,0 +1,15 @@
+# Environment variables & secrets
+.env
+token
+*.key
+*.pem
+
+# Data
+data/raw/
+
+# Python cache & artifacts
+pycache/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
